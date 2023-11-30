@@ -1,0 +1,10 @@
+version: 1
+type: maven
+resolver:
+  serverId: soleng
+  snapshotRepo: shire-maven-dev
+  releaseRepo: shire-maven-dev
+deployer:
+  serverId: soleng
+  snapshotRepo: shire-maven-dev
+  releaseRepo: shire-maven-dev

@@ -1,0 +1,10 @@
+version: 1
+type: maven
+resolver:
+    serverId: soleng
+    snapshotRepo: srao-maven-local
+    releaseRepo: srao-maven-local
+deployer:
+    serverId: soleng
+    snapshotRepo: srao-maven-local
+    releaseRepo: srao-maven-local
